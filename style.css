@@ -41,7 +41,7 @@ strong {
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 1.25rem;
-  width: 800px;
+  max-width: 800px;
 }
 
 .intro-chunk {
